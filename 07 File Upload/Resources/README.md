@@ -8,6 +8,8 @@ touch test.php && curl -X POST -H "Content-Type: multipart/form-data" --form "Up
 
 After running this command we got a new flag in the response.
 
+---
+
 > How to secure:
 >
-> - Check the image if a valid image not just the content type or extention.
+> -  Check the image if a valid image not just the content type or extention.

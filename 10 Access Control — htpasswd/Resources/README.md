@@ -6,6 +6,8 @@ We decode the password with the md5 hash and we get 'dragon'
 
 We used the credentions to login in `http://$IP/admin`, we got the flag.
 
+---
+
 > How to secure:
 >
-> - Make sure to delete all files not useful, or hide it for public.
+> -  Make sure to delete all files not useful, or hide it for public.

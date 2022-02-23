@@ -12,6 +12,8 @@ We craft the last injection where we try all the columns, and We did it.
 1 AND false UNION SELECT comment, title FROM list_images
 ```
 
+---
+
 > How to secure:
 >
-> - Sanitize input.
+> -  Sanitize input.
