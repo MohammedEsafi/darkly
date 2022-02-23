@@ -12,6 +12,8 @@ We craft the last injection where we try all the columns, and We did it.
 1 AND false UNION SELECT Commentaire, countersign FROM users
 ```
 
+---
+
 > How to secure:
 >
-> - Sanitize input.
+> -  Sanitize input.
