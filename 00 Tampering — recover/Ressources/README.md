@@ -1,4 +1,4 @@
-On `http://$IP/?page=recover` we inspect the HTML Page and we found a form with POST method and a hidden input conatins an email as a value
+On `http://$IP/?page=recover` we inspect the HTML Page and we found a form with POST method and a hidden input contains an email as a value
 
 Sending a curl request through a terminal, We got the flag.
 
