@@ -1,6 +1,6 @@
 # Darkly
 
-This project is an introduction to cyber security in the field of the WWW. We have to find all the different vulnerabilities in order to find a flag.
+This project is an introduction to cyber security in the field of the <span>WWW</span>. We have to find all the different vulnerabilities in order to find a flag.
 
 ## Resources
 
